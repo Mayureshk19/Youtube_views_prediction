@@ -1,2 +1,2 @@
 # Youtube_views_prediction
-Created Using Sythetic dataset,Random Forest Regressor and MLP Classifier
+Created Using Sythetic dataset,Random Forest Regressor,averaging and MLP Classifier
